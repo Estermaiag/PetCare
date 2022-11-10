@@ -1,0 +1,122 @@
+body {
+    font-family: 'Fredoka', sans-serif;
+    background-color: #F4F4F4;
+    color: #FFFFFF;
+}
+
+.marginNegTop1 {
+    margin-top: -1.5rem;
+}
+
+.topNeg80 {
+    top: -7rem;
+}
+
+.imagemFundo {
+    background-image: url("img/img_base.png");
+    background-repeat: no-repeat;
+    padding-bottom: 10%;
+    background-size: cover;
+}
+
+.corBranco {
+    color: #FFFFFF;
+}
+
+.corLilas {
+    color: #A799FF;
+}
+
+.corPreto {
+    color: #000000;
+}
+
+.padding-top {
+    padding-top: 12%;
+}
+
+.padding-top15 {
+    padding-top: 15%;
+}
+
+.padding-top6 {
+    padding-top: 6%;
+}
+
+.padding-top3 {
+    padding-top: 3%;
+}
+
+.padding-left60 {
+    padding-left: 60%;
+}
+
+
+.input {
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    padding-left: 2%;
+    width: 84%;
+    height: 43px;
+}
+
+.botao {
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    border-color: #175004;
+    width: 84%;
+    height: 43px;
+    background-color: #175004;
+    color: #FFFFFF;
+}
+
+.efetuarCadastro {
+    border: 1px solid #E0FFD4;
+    border-radius: 20px;
+    padding: 2%;
+    color: #E0FFD4;
+}
+
+.menus {
+    height: 10%;
+    background-color: #A799FF;
+    box-shadow: 1.17808px 1.17808px 5.89041px rgba(0, 0, 0, 0.1);
+    border-radius: 23.5616px;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.itemMenu {
+    border: 1px solid #FFFFFF;
+    border-radius: 20px;
+    padding: 2%;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+.funcionalidades {
+    background-color: #FFFFFF;
+    background: #FFFFFF;
+    box-shadow: 1.17808px 1.17808px 5.89041px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    /* padding-top: 3%; */
+    /* padding-left: 3rem; */
+    /* padding-bottom: 3%; */
+    /* margin-top: -50px; */
+}
+
+.cartao {
+    border: 2px solid #175004;
+    border-radius: 20px;
+    padding: 5% 5%;
+}
+
+.sobreEmpresa {
+    padding: 5%;
+    background-color: #175004;
+}
+
+.menu-suspenso {
+    /* margin-top: -90px; */
+}
